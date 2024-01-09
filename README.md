@@ -1,6 +1,6 @@
 Privacy Policy for Nova
 
-Last updated: Dec 6th, 2023
+Last updated: Jan 9th, 2024
 
 
 
@@ -20,7 +20,15 @@ We collect information to provide better services to all our users. Here are the
 - Automated Information: We automatically collect certain information when you visit our website or use our services, including IP addresses, browser types, and interaction data.
 
 
+Sharing Data with Third-Party Tools and AI Models:
 
+- Description of Data Sharing: When using Nova, certain information may be shared with third-party tools or AI models to enhance functionality and service offerings. This includes but is not limited to, AI-driven task automation, data analysis, and optimization of user experience.
+- Types of Data Shared: The shared data includes interaction data, task-related information, and any relevant content from your linked Google account that is necessary for service operation.
+- Third-Party Tools and AI Models: We partner with reputable third-party service providers and utilize advanced AI models to process data securely and efficiently. These partnerships are governed by strict data privacy agreements.
+
+User Consent:
+- Explicit Consent for Data Sharing: Upon signing up or during the usage of Nova, you will be prompted to provide explicit consent for the sharing of specific data with third-party tools and AI models.
+- Consent Management: You can manage your consent choices at any time through your account settings, including opting out.
 
 
 Use of Information
